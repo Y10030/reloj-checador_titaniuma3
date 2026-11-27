@@ -1,0 +1,9 @@
+{
+  "name": "Pallets La Esperanza · Planta Coacalco",
+  "short_name": "Esperanza Coacalco",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#F2F7F4",
+  "theme_color": "#15803D",
+  "orientation": "portrait"
+}
